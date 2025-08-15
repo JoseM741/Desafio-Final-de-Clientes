@@ -71,6 +71,9 @@ Otras Ventajas de trabajar sin escalado en modelos de árboles son:
 
 
 
+**Autor:** 👤 José Monje  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg" alt="Chile" height="20"/>
+
+
 
 
 
