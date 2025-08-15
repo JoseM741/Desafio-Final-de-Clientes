@@ -60,5 +60,17 @@ Esto garantiza que **todas las transformaciones se apliquen de manera consistent
 
 ## 🏁 Conclusiones
 
-> Aquí se pueden incluir los **principales hallazgos** y recomendaciones estratégicas basadas en la importancia de las variables y patrones detectados en los datos.
+Respecto del modelo utilizado, utilicé la opción de Arboles de Decisión, esto debido a que no requiere tipo de escalado y su forma de trabajo es por Umbrales, no usa distancias.
+Otras Ventajas de trabajar sin escalado en modelos de árboles son:
+
+• Robustez ante outliers: Los árboles dividen el espacio por umbrales, no por distancias.
+
+• Interpretabilidad directa: Se pueden leer los valores sin preocuparse por transformaciones.
+
+• Menor complejidad: Se evitan pasos adicionales.
+
+
+
+
+
 
