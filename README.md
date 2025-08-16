@@ -24,7 +24,9 @@ La empresa busca **anticiparse a la cancelación** y necesita un **pipeline robu
 
 ## 🗂 Preparación de los Datos
 
-Se utilizaron datos previamente procesados en el proyecto anterior, **limpios y de tipo binario (0 y 1)**.  
+Se utilizaron datos previamente procesados en el proyecto anterior: Desafio_TelecomX
+
+**limpios y de tipo binario (0 y 1)**.  
 
 ---
 
